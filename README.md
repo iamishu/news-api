@@ -26,10 +26,10 @@ Supports all categories as on the Inshorts Website. These include -
 
 Make a get request of the form 
 ```
-https://inshorts-api.herokuapp.com/news?category={category_name}
+https://inshortsnews-api.herokuapp.com/news?category={category_name}
 ```
 
-[Click here to see sample for category sports](https://inshorts-api.herokuapp.com/news?category=sports)
+[Click here to see sample for category sports](https://inshortsnews-api.herokuapp.com/news?category=sports)
 
 ### 2. POST Request
 
